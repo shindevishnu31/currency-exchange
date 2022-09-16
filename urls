@@ -1,0 +1,9 @@
+urls:
+localhost:8092/currency-exchange/from/USD/to/INR
+
+localhost:8091/currency-conversion/from/USD/to/INR/quantity/10
+
+localhost:8083/currency-exchange/from/USD/to/INR
+localhost:8083/currency-conversion/from/USD/to/INR/quantity/10
+
+localhost:8083/currency-conversion/currency-conversion/from/USD/to/INR/quantity/10
